@@ -39,7 +39,7 @@
     "config": {
         "sort-packages": true,
         "platform": {
-            "php": "7.4.7"
+            "php": "7.3.10"
         },
         "allow-plugins": {
             "wyrihaximus/composer-update-bin-autoload-path": true
